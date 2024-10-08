@@ -1,7 +1,7 @@
 import React from "react"
 import { IconContext } from "react-icons"
 import { ImTwitter, ImGithub } from "react-icons/im"
-import ProfileImage from "../../public/images/profile-image.jpg"
+import ProfileImage from "../images/profile-image.jpg"
 
 function Hero() {
   return(
