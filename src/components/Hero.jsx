@@ -13,10 +13,10 @@ function Hero() {
         <div className="flex justify-center items-center mt-4">
           <IconContext.Provider value={{ size:"3rem"}}>
             <div className="mr-5">
-              <a><ImTwitter /></a>
+              <a href="https://twitter.com/basrossDev"><ImTwitter /></a>
             </div>
             <div>
-              <a><ImGithub /></a>
+              <a href="https://github.com/shu-amane/portfolio"><ImGithub /></a>
             </div>
           </IconContext.Provider>
         </div>
