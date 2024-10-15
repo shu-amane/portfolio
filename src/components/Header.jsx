@@ -9,7 +9,7 @@ function Header() {
           <ul className="flex space-x-6">
             <li><a href="#home" className="hover:text-blue-400">Home</a></li>
             <li><a href="#projects" className="hover:text-blue-400">Projects</a></li>
-            {/* <li><a href="#develop" className="hover:text-blue-400">Develop</a></li> */}
+            <li><a href="#develop" className="hover:text-blue-400">Develop</a></li>
           </ul>
         </nav>
       </div>
