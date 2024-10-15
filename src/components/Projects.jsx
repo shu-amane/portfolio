@@ -2,9 +2,9 @@ import React from "react"
 
 function Projects() {
   const projectList = [
-    {title: "健康アプリのWEB開発", description:"コードレビュー, AWSログ解析, テスト全般作業", stack:"AWS, python"},
-    {title: "ECサイトのWEB開発", description:"ウォーターフォール開発、テスト全般", stack: "html, php"},
-    {title: "通信会社の自社ツール開発", description:"アジャイル開発", stack:"Linux, Vue, python"},
+    {title: "健康アプリのWEB開発", description:"コードレビュー, AWSログ解析, テスト仕様書作成, テスト", stack:"AWS, python"},
+    {title: "ECサイトのWEB開発", description:"ウォーターフォール開発、サイト保守, テスト仕様書作成, テスト", stack: "html, php"},
+    {title: "通信会社の自社ツール開発", description:"アジャイル開発, API開発", stack:"Linux, Vue, python"},
   ]
 
   return(

@@ -11,7 +11,7 @@ function App() {
         <main>
           <Hero />
           <Projects />
-          {/* <Develop /> */}
+          <Develop />
         </main>
       </div>
     )
